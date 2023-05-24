@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **dkflbr13@yandex.ru**
 
+- ⚡ Fun fact **My waifu - Nyaruko**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/rZcmZeF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rZcmZeF" height="30" width="40" /></a> <a href="https://vk.com/fbivladislav" target="_blank" rel="noreferrer"> <img align="center" src="https://i121.fastpic.org/thumb/2023/0524/1b/_08cfaae5209051747f8924cb2e4fe51b.jpeg" border="0" alt="vk" width="30" height="30"/>
