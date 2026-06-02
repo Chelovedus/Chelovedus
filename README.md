@@ -4,7 +4,8 @@
   <span><b><em> Chelovedus </em> · <i> Passionate C# Developer </i></b></span><br>
   <samp>
     <a href="https://chelovedus.github.io/">anime</a> .
-    <a href="https://steamcommunity.com/id/superfrost/">steam</a>
+    <a href="https://steamcommunity.com/id/superfrost/">steam</a> .
+    <a href="https://www.youtube.com/playlist?list=PLdP6wxjtwAXbHzUvI_BBwlThzDb98J4hE">music</a>
   </samp><br>
   <!-- <sub></sub><br> -->
   <img src="https://count.getloli.com/get/@:chelovedus" width="2000" height="0" alt="" aria-hidden="true">
