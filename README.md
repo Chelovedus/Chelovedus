@@ -8,7 +8,8 @@
     <a href="https://www.youtube.com/playlist?list=PLdP6wxjtwAXbHzUvI_BBwlThzDb98J4hE">music</a>
   </samp><br>
   <!-- <sub></sub><br> -->
-  <img src="https://count.getloli.com/get/@:chelovedus" width="2000" height="0" alt="" aria-hidden="true">
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=chelovedus&label=Profile%20views&color=0e75b6&style=flat" width="2000" height="0" alt="chelovedus" hidden /> </p>
+  <img src="https://count.getloli.com/get/@:chelovedus" width="1" height="0" alt="" aria-hidden="true">
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=chelovedus&label=Profile%20views&color=0e75b6&style=flat" width="1" height="0" alt="chelovedus" hidden /> </p>
+  🍁Improve yourself while you`re still alive🍁
 </div>
 
